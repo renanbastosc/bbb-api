@@ -1,4 +1,4 @@
 {
-  "singleQuote": true,
-  "trailingComm": "es6"
+  "tabWidth": 2,
+  "useTabs": false
 }
