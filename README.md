@@ -1,4 +1,7 @@
 # bbb-api
 
+#Introdução
 
-yarn generate -- --name Model --attributes firstName:string,lastName:string,email:string
+docker-compose up -d
+
+yarn generate -- --name Model --attributes attr:string,attr2:boolean
